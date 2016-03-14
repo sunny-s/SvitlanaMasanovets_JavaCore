@@ -5,6 +5,7 @@ public class SquareEquation {
 
 
     public static void main(String[] args) {
+
         double a, b, c, d, x1, x2;
         a = 1;
         b = 0;
